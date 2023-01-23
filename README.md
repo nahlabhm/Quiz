@@ -2,7 +2,9 @@
 Login 
 register
 Authentification Token
- categories |quiz |question  
+ categories 
+ quiz 
+ question  
 
 
 #Quiz![admin](https://user-images.githubusercontent.com/49809803/214031305-8f6ff416-cbb3-49ca-8c40-ddf57fba8256.PNG)
